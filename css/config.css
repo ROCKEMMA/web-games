@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-size: 10px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+:root {
+    --color1: #845EC2;
+    --color2: #D65DB1;
+    --color3: #FF6F91;
+    --color4: #FF9671;
+    --color5: #FFC75F;
+    --color6: #F9F871;
+}
